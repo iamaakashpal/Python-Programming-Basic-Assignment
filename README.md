@@ -1,12 +1,12 @@
 # Python-Programming-Basic-Assignment
 Python Programming Basic Assignment from ineuron.ai
 
-1. Assignment 1	DONE
-2. Assignment 2	DONE
-3. Assignment 3	DONE
-4. Assignment 4	DONE
-6. Assignment 6	DONE
-10. Assignment 10 SUBMITTED
-12. Assignment 12 SUBMITTED
-13. Assignment 13 SUBMITTED
-14. Assignment 14 SUBMITTED
+1. Assignment 1	SUBMITTED -- DONE
+2. Assignment 2	SUBMITTED -- DONE
+3. Assignment 3	SUBMITTED -- DONE
+4. Assignment 4	SUBMITTED -- DONE
+5. Assignment 6	SUBMITTED -- DONE
+6. Assignment 10 SUBMITTED -- DONE
+7. Assignment 12 SUBMITTED -- DONE
+8. Assignment 13 SUBMITTED -- DONE
+9. Assignment 14 SUBMITTED -- DONE
