@@ -19,3 +19,4 @@ Python Programming Basic Assignment from ineuron.ai
 16. Assignment 22 SUBMITTED
 17. Assignment 23 SUBMITTED
 18. Assignment 24 SUBMITTED
+19. Assignment 25 SUBMITTED
